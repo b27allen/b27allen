@@ -1,5 +1,8 @@
 ## Hi, I'm Brandon! Welcome to my GitHub 👋
 
-- 👔 Sr. Associate Application Developer at L3Harris<br/>
-- 🎓 Studied Data Visualization at Purdue University<br/>
-- ⚽️ Building projects in Soccer Analytics<br/>
+Application Developer at [L3Harris](https://www.l3harris.com)<br/>
+B.S. in [Data Visualization](https://catalog.purdue.edu/preview_program.php?catoid=8&poid=10098) at Purdue University<br/>
+
+- 🖥️ Experienced in: `SQL`, `Power BI`, `Tableau`
+- 📚 Learning: `Python`
+- ⚽️ My current interest is to apply data analysis to Soccer<br/>
