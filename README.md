@@ -5,4 +5,4 @@ B.S. in [Data Visualization](https://catalog.purdue.edu/preview_program.php?cato
 
 - 🖥️ Experienced in: `SQL`, `Power BI`, `Tableau`
 - 📚 Learning: `Python`
-- ⚽️ My current interest is to apply data analysis to Soccer<br/>
+- ⚽️ My current interest is to apply data analysis to Basketball and Soccer<br/>
